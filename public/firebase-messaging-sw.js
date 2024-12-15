@@ -5,13 +5,13 @@ importScripts(
 
 // Replace these with your own Firebase config keys...
 const firebaseConfig = {
-  apiKey: null,
-  authDomain: null,
-  projectId: null,
-  storageBucket: null,
-  messagingSenderId: null,
-  appId: null,
-  measurementId: null,
+  apiKey: "AIzaSyCubUBrSlIxvIrru7amIynQdupxFNOuGM4",
+  authDomain: "eleviacrm.firebaseapp.com",
+  projectId: "eleviacrm",
+  storageBucket: "eleviacrm.firebasestorage.app",
+  messagingSenderId: "491332703087",
+  appId: "1:491332703087:web:22d1ba719300f966e8ce9a",
+  measurementId: "G-VY731C6T52"
 };
 
 firebase.initializeApp(firebaseConfig);
